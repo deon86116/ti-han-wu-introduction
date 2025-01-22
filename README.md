@@ -20,13 +20,13 @@
 - **Soft Skills:** Leadership, Collaboration, Problem-Solving
 
 ## 📌 Featured Projects
-- [📊 **YouTube Metrics Analysis with GNNs**](https://github.com/deon86116/youtube-metrics-gnn)  
+- [🎮  **Tic-Tac-Toe Game with AI and PvP Modes**](https://github.com/deon86116/youtube-metrics-gnn)  
   Designed a predictive model using **Graph Neural Networks** to forecast YouTube video views.
 
-- [🎥 **Video Frame Interpolation with Neural Networks**](https://github.com/deon86116/video-frame-interpolation)  
+- [🎥 **Video Frame Interpolation with Neural Networks**](https://github.com/deon86116/digital-video-processing-final-project)  
   Developed a **convolutional neural network** for high-accuracy frame interpolation.
 
-- [⚙️ **RISC-V P-Extension Implementation**](https://github.com/deon86116/riscv-p-extension)  
+- [⚙️ **RISC-V P-Extension Implementation**](https://github.com/deon86116/sail-riscv)  
   Enhanced performance for packed-SIMD tasks in multimedia and signal processing.
 
 ## 🌱 What I'm Learning
