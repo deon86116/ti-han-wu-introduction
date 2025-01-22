@@ -1,16 +1,21 @@
 # Hi, I'm Ti-Han Wu 👋
 
-🎓 **Graduate Student in Computer Science**  
+🎓 **Graduate Student in Computer Science at ASU | Bachelor Degree of EECS in National Tsing Hua University**  
 📍 Based in Tempe, AZ | 🌐 Fluent in English and Mandarin  
 
+## 🔥 Looking For
+- **Entry Level Software Engineer**
+- **Entry Level Cyber Security Engineer**
+
 ## 🚀 About Me
-- 🌟 Passionate about **AI, Video Processing, and Embedded Systems**.
+- 🌟 Passionate about **Cyber Security, Mobile Computing, and Assmebly Language**.
 - 🏆 Experienced in developing **Machine Learning Models**, **Embedded Tools**, and **Mobile Applications**.
-- 💡 Constantly learning and exploring **cutting-edge technologies** in **AI** and **mobile computing**.
+- 📚 Complete courses of CSE 466, CSE 545 and CSE 539 from **Pwncollege** at ASU (Cyber Security)
+- 💡 Constantly learning and exploring **cutting-edge technologies** in **Cyber Security** and **Mobile Computing**.
 
 ## 🔧 Technical Skills
 - **Programming Languages:** Python, C++, C, C#, Kotlin, JavaScript, HTML/CSS, LaTeX
-- **Libraries/Tools:** TensorFlow, PyTorch, NumPy, OpenCV, Linux
+- **Libraries/Tools:** TensorFlow, PyTorch, NumPy, OpenCV, Linux, pwntools
 - **Frameworks:** .NET, Android SDK, jQuery
 - **Soft Skills:** Leadership, Collaboration, Problem-Solving
 
@@ -25,10 +30,11 @@
   Enhanced performance for packed-SIMD tasks in multimedia and signal processing.
 
 ## 🌱 What I'm Learning
-- Advanced AI techniques (BERT, GNNs, and Transformers)
+- Topics regarding to Cyber Security(System Security, Software Security, Applied Cryptography)
 - Mobile computing optimization
+- Software development
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/deon-wu)
+- [LinkedIn](https://www.linkedin.com/in/deon-wu/)
 - [Email](mailto:deon86116@gmail.com)
 - [GitHub](https://github.com/deon86116)
