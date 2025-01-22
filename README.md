@@ -20,7 +20,7 @@
 - **Soft Skills:** Leadership, Collaboration, Problem-Solving
 
 ## 📌 Featured Projects
-- [🎮  **Tic-Tac-Toe Game with AI and PvP Modes**](https://github.com/deon86116/youtube-metrics-gnn)  
+- [🎮  **Tic-Tac-Toe Game with AI and PvP Modes**](https://github.com/Max851010/CSE_535_Project_2)  
   Designed a predictive model using **Graph Neural Networks** to forecast YouTube video views.
 
 - [🎥 **Video Frame Interpolation with Neural Networks**](https://github.com/deon86116/digital-video-processing-final-project)  
